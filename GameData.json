@@ -1,0 +1,66 @@
+[
+    {
+        "Id": 1,
+        "Name": "Scrabble",
+        "Age": 8,
+        "PlayingTime": 30,
+        "NumberOfPlayers": 2,
+        "Players": []
+    },
+    {
+        "Id": 2,
+        "Name": "Chess",
+        "Age": 8,
+        "PlayingTime": 60,
+        "NumberOfPlayers": 2,
+        "Players": []
+    },
+    {
+        "Id": 3,
+        "Name": "Football",
+        "Age": 8,
+        "PlayingTime": 30,
+        "NumberOfPlayers": 22,
+        "Players": []
+    },
+    {
+        "Id": 4,
+        "Name": "Cricket",
+        "Age": 8,
+        "PlayingTime": 60,
+        "NumberOfPlayers": 12,
+        "Players": []
+    },
+    {
+        "Id": 5,
+        "Name": "Hockey",
+        "Age": 15,
+        "PlayingTime": 35,
+        "NumberOfPlayers": 24,
+        "Players": []
+    },
+    {
+        "Id": 6,
+        "Name": "Running",
+        "Age": 10,
+        "PlayingTime": 0,
+        "NumberOfPlayers": 3,
+        "Players": []
+    },
+    {
+        "Id": 7,
+        "Name": "Polo",
+        "Age": 10,
+        "PlayingTime": 0,
+        "NumberOfPlayers": 1,
+        "Players": []
+    },
+    {
+        "Id": 8,
+        "Name": "Ping Tea",
+        "Age": 10,
+        "PlayingTime": 0,
+        "NumberOfPlayers": 2,
+        "Players": []
+    }
+]
